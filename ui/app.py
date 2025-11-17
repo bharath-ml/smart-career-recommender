@@ -1,9 +1,25 @@
 # ui/app.py
+
+import threading
+from fastapi import FastAPI
+import uvicorn
+from backend.main import app as fastapi_app   # import your existing backend app
+
+def run_backend():
+    uvicorn.run(fastapi_app, host="0.0.0.0", port=8000)
+
+thread = threading.Thread(target=run_backend, daemon=True)
+thread.start()
+
+
+
+
+
 import streamlit as st
 import requests
 import time
 
-API_URL = "http://127.0.0.1:8000/recommend"
+API_URL = "http://localhost:8000/recommend"
 
 st.set_page_config(page_title="Smart Career Recommender", layout="wide")
 st.title("🎯 Smart Career — Course & Certification Recommender")
