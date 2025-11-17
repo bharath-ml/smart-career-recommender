@@ -1,0 +1,101 @@
+id,title,provider,duration_weeks,prerequisites,skill_tags,level,link,cost
+c_001,Intro to Python,Coursera,6,None,python|programming,beginner,https://www.coursera.org/learn/python,free
+c_002,SQL for Data Analysis,Udemy,4,None,sql|databases|joins,beginner,https://www.udemy.com/course/sql-data-analysis,paid
+c_003,Data Engineering on GCP,Coursera,8,sql|python,data-engineering|etl|gcp,intermediate,https://www.coursera.org/learn/gcp-data-engineering,paid
+c_004,Machine Learning Basics,edX,10,python|statistics,machine-learning|ai,intermediate,https://www.edx.org/learn/machine-learning,free
+c_005,Advanced Java Programming,Udacity,12,java,java|oop|data-structures,advanced,https://www.udacity.com/course/java-programming,paid
+c_006,Web Development Bootcamp,Codecademy,16,None,html|css|javascript,beginner,https://www.codecademy.com/learn/web-development,paid
+c_007,Deep Learning Specialization,Coursera,12,python|ml,deep-learning|neural-networks,advanced,https://www.coursera.org/specializations/deep-learning,paid
+c_008,Cloud Practitioner Essentials,AWS,6,None,cloud|aws,beginner,https://www.aws.training/Details/Curriculum?id=20685,free
+c_009,Introduction to Cybersecurity,Cisco,4,None,cybersecurity|networking,beginner,https://www.netacad.com/courses/cybersecurity,free
+c_010,Data Structures in Python,Udemy,5,python,data-structures|algorithms,beginner,https://www.udemy.com/course/data-structures-python,paid
+c_011,DevOps Essentials,Udacity,8,linux|git,devops|ci-cd,intermediate,https://www.udacity.com/course/devops-fundamentals,paid
+c_012,Frontend Developer Path,Codecademy,20,None,html|css|javascript|react,beginner,https://www.codecademy.com/learn/paths/front-end-engineer-career-path,paid
+c_013,Google Data Analytics,Google,8,None,data-analysis|sql|excel,beginner,https://www.coursera.org/professional-certificates/google-data-analytics,free
+c_014,Full Stack Web Development,edX,24,html|css,full-stack|node|react,intermediate,https://www.edx.org/boot-camps/web-development,paid
+c_015,AI for Everyone,Coursera,4,None,ai|ml,beginner,https://www.coursera.org/learn/ai-for-everyone,free
+c_016,React – The Complete Guide,Udemy,10,javascript,react|frontend,intermediate,https://www.udemy.com/course/react-the-complete-guide,paid
+c_017,Power BI Data Visualization,Udemy,3,None,power-bi|dashboards|visualization,beginner,https://www.udemy.com/course/powerbi-data-visualization,paid
+c_018,Natural Language Processing,Coursera,6,python|ml,nlp|deep-learning,advanced,https://www.coursera.org/learn/nlp-sequence-models,paid
+c_019,Operating Systems NPTEL,NPTEL,12,None,os|processes|threads,intermediate,https://nptel.ac.in/courses/106106144,free
+c_020,Computer Networks NPTEL,NPTEL,12,None,networking|tcp-ip,intermediate,https://nptel.ac.in/courses/106105183,free
+c_021,Data Mining,edX,8,statistics|python,data-mining|clustering,intermediate,https://www.edx.org/learn/data-mining,free
+c_022,Backend Development with Node.js,Coursera,5,javascript,nodejs|backend,beginner,https://www.coursera.org/learn/nodejs,free
+c_023,Android App Development,Kotlin Academy,10,None,android|kotlin|mobile,beginner,https://developer.android.com/courses,free
+c_024,iOS App Development,Udacity,12,swift,ios|swift|mobile-dev,intermediate,https://www.udacity.com/course/ios-developer-nanodegree,paid
+c_025,Ethical Hacking,Udemy,6,networking,ethical-hacking|cybersecurity,intermediate,https://www.udemy.com/course/ethical-hacking,paid
+c_026,Blockchain Basics,Coursera,4,None,blockchain|distributed-systems,beginner,https://www.coursera.org/learn/blockchain-basics,free
+c_027,Big Data with Hadoop,Udemy,10,java|linux,hadoop|spark|big-data,intermediate,https://www.udemy.com/course/hadoop-and-big-data,paid
+c_028,Google Cloud Architect,Google,12,linux|networking,gcp|cloud-architecture,advanced,https://www.coursera.org/professional-certificates/cloud-architect,paid
+c_029,Docker & Kubernetes,Udemy,7,linux|docker,kubernetes|containers,intermediate,https://www.udemy.com/course/docker-kubernetes,paid
+c_030,Statistics for Data Science,Coursera,5,None,statistics|probability,beginner,https://www.coursera.org/learn/statistics-data-science,free
+c_031,Excel to MySQL Analytics,Coursera,8,None,excel|sql|analytics,beginner,https://www.coursera.org/specializations/excel-mysql,paid
+c_032,TensorFlow Developer Certificate,DeepLearning.AI,12,python|ml|dl,tensorflow|deep-learning,advanced,https://www.coursera.org/professional-certificates/tensorflow-in-practice,paid
+c_033,Graph Theory NPTEL,NPTEL,8,None,maths|graph-theory,intermediate,https://nptel.ac.in/courses/111107135,free
+c_034,Compiler Design,NPTEL,12,None,compilers|lexical-analysis,advanced,https://nptel.ac.in/courses/106104123,free
+c_035,C++ Programming,Udemy,6,None,cpp|oop,beginner,https://www.udemy.com/course/cpp-programming,paid
+c_036,STL in C++,Udemy,4,cpp,cpp|stl|algorithms,intermediate,https://www.udemy.com/course/cpp-stl,paid
+c_037,Git & GitHub Masterclass,Coursera,3,None,git|github|version-control,beginner,https://www.coursera.org/learn/introduction-git-github,free
+c_038,Agile Project Management,Google,4,None,agile|scrum,beginner,https://www.coursera.org/professional-certificates/agile-project-management,free
+c_039,Discrete Mathematics,NPTEL,12,None,discrete-math|logic,intermediate,https://nptel.ac.in/courses/111106086,free
+c_040,JavaScript Algorithms,Udemy,5,javascript,algorithms|javascript,intermediate,https://www.udemy.com/course/javascript-algorithms,paid
+c_041,Google UX Design Course,Google,12,None,ux|ui|design,beginner,https://www.coursera.org/professional-certificates/google-ux-design,free
+c_042,Photoshop Essentials,Udemy,3,None,design|photoshop,beginner,https://www.udemy.com/course/photoshop-essentials,paid
+c_043,Cybersecurity Analyst,Google,12,networking,cybersecurity|analysis,intermediate,https://www.coursera.org/professional-certificates/google-cybersecurity,free
+c_044,SQL Masterclass,Udemy,6,None,sql|postgres,beginner,https://www.udemy.com/course/the-complete-sql-bootcamp,paid
+c_045,Computer Vision with PyTorch,Coursera,8,python|dl,computer-vision|pytorch,advanced,https://www.coursera.org/specializations/computer-vision,paid
+c_046,AI Product Management,Coursera,4,None,ai|product-management,beginner,https://www.coursera.org/learn/ai-product-management,free
+c_047,Digital Marketing,Udemy,5,None,digital-marketing|seo,beginner,https://www.udemy.com/course/digital-marketing-course,paid
+c_048,Cybersecurity Essentials,Cisco,6,None,cybersecurity|networking,beginner,https://www.netacad.com/courses/cybersecurity-essentials,free
+c_049,Foundations of Cloud Computing,IBM,5,None,cloud|devops,beginner,https://www.coursera.org/learn/introduction-cloud,free
+c_050,Python for Data Science,edX,6,None,python|numpy|pandas,beginner,https://www.edx.org/learn/data-science-python,free
+c_051,Applied Data Science,IBM,10,python|statistics,data-science|ml,intermediate,https://www.coursera.org/professional-certificates/ibm-data-science,free
+c_052,Neural Networks Fundamentals,Udemy,4,python|maths,neural-networks|ai,intermediate,https://www.udemy.com/course/neural-networks-fundamentals,paid
+c_053,Java Full Stack Developer,Udacity,20,java|html|css,full-stack|spring|react,advanced,https://www.udacity.com/course/java-full-stack,paid
+c_054,HTML & CSS Bootcamp,Udemy,3,None,html|css,beginner,https://www.udemy.com/course/html-css-bootcamp,paid
+c_055,Data Visualization with Python,IBM,4,python|matplotlib,visualization|data-science,beginner,https://www.coursera.org/learn/python-for-data-visualization,free
+c_056,Cloud DevOps Engineer,Udacity,16,linux|docker,cloud|devops|aws,advanced,https://www.udacity.com/course/cloud-devops-engineer-nanodegree,paid
+c_057,Probability & Statistics,edX,8,None,probability|statistics,beginner,https://www.edx.org/learn/statistics,free
+c_058,Excel Essentials,Udemy,2,None,excel|data-analysis,beginner,https://www.udemy.com/course/learn-excel-essentials,paid
+c_059,Intro to C Programming,Coursera,4,None,c|programming,beginner,https://www.coursera.org/learn/c-programming,free
+c_060,Data Analytics with R,Coursera,6,None,r|statistics,beginner,https://www.coursera.org/learn/data-analytics-r,free
+c_061,BigQuery for Beginners,Google,3,sql,bigquery|data-warehouse,beginner,https://www.cloudskillsboost.google/course_templates/67,free
+c_062,Tableau A–Z,Udemy,4,None,tableau|visualization,beginner,https://www.udemy.com/course/tableau-training,paid
+c_063,Linux System Administration,edX,8,None,linux|sysadmin,intermediate,https://www.edx.org/learn/linux-system-administration,free
+c_064,Apache Spark with Python,Udemy,6,python|big-data,spark|distributed-computing,intermediate,https://www.udemy.com/course/apache-spark-python,paid
+c_065,Cybersecurity Tools & Attacks,IBM,4,None,cybersecurity|tools,beginner,https://www.coursera.org/learn/cybersecurity-tools-attacks,free
+c_066,Full Stack with Django,Udemy,10,python|html|css,django|backend|full-stack,intermediate,https://www.udemy.com/course/django-full-stack,paid
+c_067,Intro to Blockchain Development,edX,6,None,blockchain|solidity,beginner,https://www.edx.org/learn/blockchain,free
+c_068,Cloud Data Engineering,GCP,12,python|sql|cloud,data-engineering|gcp,advanced,https://www.cloudskillsboost.google/journeys/data-engineering,free
+c_069,Java Spring Boot Microservices,Udemy,8,java,spring-boot|microservices,intermediate,https://www.udemy.com/course/spring-boot-microservices,paid
+c_070,Frontend System Design,Coursera,5,javascript,system-design|frontend,advanced,https://www.coursera.org/learn/frontend-system-design,paid
+c_071,Python Automation,Simplilearn,4,python|scripting,automation|scripting,beginner,https://www.simplilearn.com/python-automation-course,paid
+c_072,Azure Fundamentals,Microsoft,6,None,azure|cloud,beginner,https://learn.microsoft.com/training/paths/az-900-describe-cloud-concepts,free
+c_073,Kotlin for Beginners,Udemy,4,None,kotlin|android,beginner,https://www.udemy.com/course/kotlin-beginners,paid
+c_074,Software Testing & QA,Coursera,6,None,testing|qa,beginner,https://www.coursera.org/learn/software-testing,free
+c_075,Flutter App Development,Udemy,10,dart|mobile,flutter|mobile-dev,intermediate,https://www.udemy.com/course/flutter-bootcamp,paid
+c_076,Web Security Fundamentals,Coursera,6,None,security|web-security,beginner,https://www.coursera.org/learn/web-security,free
+c_077,Intro to GitOps,edX,6,git|docker,gitops|devops,intermediate,https://www.edx.org/learn/gitops,free
+c_078,Reinforcement Learning,Coursera,8,python|dl,reinforcement-learning|ai,advanced,https://www.coursera.org/learn/reinforcement-learning,paid
+c_079,Excel for Business,Macquarie,4,None,excel|business,beginner,https://www.coursera.org/specializations/excel,free
+c_080,Data Wrangling with Python,Udemy,5,python|pandas,data-wrangling|cleaning,intermediate,https://www.udemy.com/course/data-wrangling-python,paid
+c_081,HTML5 Game Development,Udemy,6,javascript,game-dev|html5,intermediate,https://www.udemy.com/course/html5-game-development,paid
+c_082,Software Architecture,Coursera,8,None,architecture|design-patterns,intermediate,https://www.coursera.org/learn/software-architecture,paid
+c_083,Numpy & Pandas Bootcamp,Udemy,3,python,numpy|pandas|data-analysis,beginner,https://www.udemy.com/course/numpy-pandas-bootcamp,paid
+c_084,Advanced SQL for Analytics,Coursera,6,sql,analytics|sql,intermediate,https://www.coursera.org/learn/advanced-sql-for-data-scientists,free
+c_085,IT Security Foundations,edX,8,None,it-security|cybersecurity,beginner,https://www.edx.org/learn/it-security,free
+c_086,Python GUI with Tkinter,Udemy,4,python,tkinter|gui,beginner,https://www.udemy.com/course/python-gui-tkinter,paid
+c_087,FastAPI Masterclass,Udemy,5,python,fastapi|backend,intermediate,https://www.udemy.com/course/fastapi-masterclass,paid
+c_088,Data Pipelines with Airflow,Udemy,6,python|sql,airflow|data-engineering,intermediate,https://www.udemy.com/course/apache-airflow,paid
+c_089,NoSQL Databases,MongoDB University,4,None,mongodb|nosql,beginner,https://learn.mongodb.com,free
+c_090,Time Series Analysis,Coursera,8,python|statistics,time-series|forecasting,advanced,https://www.coursera.org/learn/time-series-analysis,paid
+c_091,Artificial Intelligence NPTEL,NPTEL,12,None,ai|ml,intermediate,https://nptel.ac.in/courses/106105079,free
+c_092,Operating Systems & Linux Basics,Udemy,6,None,linux|os,beginner,https://www.udemy.com/course/linux-operating-system,paid
+c_093,Quantum Computing Basics,edX,4,maths|python,quantum-computing|algorithms,advanced,https://www.edx.org/learn/quantum-computing,free
+c_094,Communication Skills,Udemy,2,None,communication|soft-skills,beginner,https://www.udemy.com/course/communication-skills,paid
+c_095,Leadership Essentials,Coursera,4,None,leadership|management,beginner,https://www.coursera.org/learn/leadership-skills,free
+c_096,Data Ethics & Privacy,Coursera,3,None,ethics|privacy|law,beginner,https://www.coursera.org/learn/data-ethics,free
+c_097,IT Automation with Python,Google,12,python|linux,automation|devops,intermediate,https://www.coursera.org/professional-certificates/google-it-automation,free
+c_098,API Design & Development,Coursera,5,python|rest,api|backend,intermediate,https://www.coursera.org/learn/api-design,paid
+c_099,DSA in Java,Udemy,6,java,ds-algorithms|java,intermediate,https://www.udemy.com/course/dsa-java,paid
+c_100,System Design for Developers,Udemy,8,None,system-design|architecture,advanced,https://www.udemy.com/course/system-design-interview,paid

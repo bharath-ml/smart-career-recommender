@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# Model downloads
+sentence_transformers/
+cache/
+*.bin
+*.pt
+
+# IDE files
+.vscode/
