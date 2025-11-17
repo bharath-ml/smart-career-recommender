@@ -3,7 +3,11 @@
 import threading
 from fastapi import FastAPI
 import uvicorn
-from backend.main import app as fastapi_app   # import your existing backend app
+import sys, os
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+
+from backend.main import app as fastapi_app
+
 
 def run_backend():
     uvicorn.run(fastapi_app, host="0.0.0.0", port=8000)
